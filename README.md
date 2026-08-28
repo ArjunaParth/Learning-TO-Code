@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ArjunaParth/Learning-TO-Code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ArjunaParth/Learning-TO-Code/tree/master/0014-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArjunaParth/Learning-TO-Code/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArjunaParth/Learning-TO-Code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArjunaParth/Learning-TO-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
